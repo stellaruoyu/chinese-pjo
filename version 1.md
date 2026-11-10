@@ -300,3 +300,56 @@ We glided through the water effortlessly. The next moment, we were at Mount Rain
 So we ran as far as we could, before nature surrounded us. It looked like a fairy tale! The only problem is that we needed to go down, not up.
 
 
+
+
+---
+
+## Version 1 Score & Feedback
+
+This score is for the story as it exists now. The draft currently stops during Mike: Chapter 2, so the climax and ending have not been reached yet.
+
+**Total: 51 / 100** — A promising, imaginative first draft with strong world-building and character energy, but the main adventure is unfinished and the plot needs clearer cause-and-effect.
+
+| Area | Score | Evidence | One question I should ask myself |
+|---|---:|---|---|
+| Premise | 7 / 10 | “Sofia Zhou, the daughter of Ping'an, the Goddess of the Storm.” The story has a clear mythic family setup, but the full one-sentence goal, obstacle, and ending are not yet clear. | Can I state Sofia’s whole story in one sentence: what she wants, what blocks her, and what changes by the end? |
+| Opening | 9 / 15 | “My name is Penny Han.” The opening begins with backstory, but the Sofia section quickly creates conflict: “he turned into a yaoguai and pounced.” | Should the story begin closer to Sofia’s first monster attack, where the main adventure changes her life? |
+| Hero, goal and stakes | 10 / 15 | “I’m going to rescue my mom.” Sofia has a specific goal, and her mother is trapped under a mountain, but the cost of failure is not fully explained yet. | What exactly will Sofia lose if she fails to rescue Ping’an? |
+| Middle: escalation and cause-effect | 13 / 20 | “The moment the plane landed… one eyed monsters called Yimu attacked us.” The attacks lead Sofia toward Camp Jade, but some events jump quickly and some choices need stronger reasons. | Does every chapter happen because of a choice or consequence from the chapter before it? |
+| Climax | 0 / 15 | Not reached yet. The draft ends while the rescue mission is beginning. | What is the hardest choice Sofia must make to rescue her mother? |
+| Ending | 0 / 10 | Not reached yet. The outside problem and Sofia’s inner change are still open. | After the rescue or final choice, what will Sofia understand that she did not understand at the beginning? |
+| Conflict, dialogue and voice | 9 / 10 | Stanley’s voice is easy to recognize: “Finally made it to camp slowpoke.” Mike, Olivia, Stanley, and Sofia have different attitudes. | Can every important character want something different in each major scene? |
+| Readability | 3 / 5 | “My anger wanted the entire ocean to swallow and drown him.” The images are lively, but some paragraphs are long and some sentences or jumps are confusing. | Where can I split a long paragraph so the important action is easier to follow on a phone? |
+
+### Top 3 strengths
+
+1. The Chinese-myth setting feels imaginative. The Diyu, WangXiangTai, Meng Po, Jade Emperor, Dragon Kings, and Camp Jade give the story its own visual world.
+2. Sofia’s powers create active scenes. The water attack, the monster fight, the sword training, and the storm abilities let her make things happen.
+3. The characters have memorable energy. Stanley’s teasing, Olivia’s strict training, and Mike’s jokes make the camp feel populated instead of empty.
+
+### Top 3 fixes
+
+1. **Finish and define the main story goal.**  
+   Scene: the transition from Camp Jade to the mountain rescue. The story has several interesting goals, but Sofia’s rescue of Ping’an should become the main thread. Use **Station 1: One-Sentence Premise**. Write one sentence that names Sofia’s goal, the main obstacle, the cost of failure, and the change at the end.
+
+2. **Strengthen the dominoes between chapters.**  
+   Scene: the sequence from the school attack, to Camp Jade, to training, to the mission. Some events feel like “and then” instead of “because of that.” Use **Station 5: Dominos**. For each chapter, write: “Because Sofia did ___, ___ happened, so she chose ___.” If a chapter cannot fit that pattern, add a stronger consequence or choice.
+
+3. **Build the climax before writing the ending.**  
+   Scene: the unfinished rescue mission. A final battle should test Sofia’s judgment and courage, not only her power. Use **Station 6: Hard Choice**. Decide what Sofia must give up, risk, or admit in order to save Ping’an.
+
+### My next step
+
+In 20 minutes, write a five-line plan for the next three scenes:
+
+1. The new danger at the mountain.
+2. Sofia’s hardest choice.
+3. The immediate result of that choice.
+
+Do not write the full scenes yet. Make sure each line causes the next one.
+
+### Confidence
+
+**Medium confidence.** I can judge the opening, characters, setting, early goal, middle, and readability from the existing chapters. I cannot fairly judge the climax, ending, final character change, or final loose-thread resolution because they are not written yet. The premise score is also partly inferred because the story does not yet state the complete plot in one sentence.
+
+
